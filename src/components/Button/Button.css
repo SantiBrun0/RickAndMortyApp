@@ -1,0 +1,17 @@
+.btn {
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #F86F03;
+    color: #FFF6F4;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: all ease 0.3s;
+}
+
+.btn:hover {
+    cursor: pointer;
+    transform: translateY(-3px);
+    background-color: #e96500;
+}

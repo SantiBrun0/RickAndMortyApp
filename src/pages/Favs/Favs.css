@@ -1,0 +1,26 @@
+.favs {
+    background-color: #FFF6F4;
+    min-height: 97vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.favs .no-favs {
+    margin-top: 50px;
+    font-size: 1.2rem;
+}
+
+.favs .cards-fav-container {
+    display: flex;
+    gap: 20px;
+    padding: 40px 10px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.favs .btn-remove-all {
+    width: 160px;
+    background-color: rgb(226, 9, 9);
+    margin-top: 40px;
+}

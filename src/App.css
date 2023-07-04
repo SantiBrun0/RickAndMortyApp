@@ -1,0 +1,13 @@
+:root {
+  --color-purple: '#525FE1';
+  --color-orange: '#F86F03';
+  --color-yellow: '#FFA41B';
+  --color-beige: '#FFF6F4';
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

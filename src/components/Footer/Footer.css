@@ -1,0 +1,17 @@
+.footer {
+  width: 100%;
+  height: 3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #525FE1;
+  position: sticky;
+  bottom: 0;
+  padding: 6px 0;
+  font-size: 0.9rem;
+  color: white;
+}
+
+.footer i {
+  margin: 0 2px;
+}
